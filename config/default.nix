@@ -12,7 +12,7 @@
     ./plug/colorscheme/colorscheme.nix
 
     ./plug/completion/cmp.nix
-    ./plug/completion/copilot-cmp.nix
+    #./plug/completion/copilot-cmp.nix
     ./plug/completion/lspkind.nix
     ./plug/completion/schemastore.nix
 
@@ -21,7 +21,7 @@
     ./plug/git/lazygit.nix
     ./plug/git/worktree.nix
 
-    ./plug/lsp/conform.nix
+    #./plug/lsp/conform.nix
     ./plug/lsp/fidget.nix
     ./plug/lsp/hlchunk.nix
     ./plug/lsp/lsp.nix
